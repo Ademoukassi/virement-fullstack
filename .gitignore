@@ -1,0 +1,27 @@
+# Angular generated files
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Spring Boot generated files
+backend/target/
+
+# IDE settings
+frontend/.vscode/
+backend/.idea/
+.vscode/
+.idea/
+
+# Logs and local secrets
+*.log
+.env
+.env.*
+!.env.example
+
+# Java compiled files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
